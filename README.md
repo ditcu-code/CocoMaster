@@ -1,5 +1,7 @@
 #  CocoMaster
 
+## [ACCEPTED SWIFT STUDENT CHALLENGE WWDC22]
+
 ## Description
 
 CocoMaster is an application to learn and play about coconut and its derivatives. Users are challenged to find all coconut-derived products from one item which is the coconut tree. When the user successfully collects all of them, they will be awarded the title of CocoMaster.
